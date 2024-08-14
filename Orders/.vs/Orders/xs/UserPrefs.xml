@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{5ED281F1-A028-4D1D-98F2-E0A0F3EB9317}|https">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Orders" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Orders.Backend PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Orders.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Orders.Shared FirstBuild="True" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.ItemProperties.Orders.Frontend FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
